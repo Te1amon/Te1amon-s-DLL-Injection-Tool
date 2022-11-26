@@ -1,0 +1,11 @@
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\bin\Debug\Te1amon's DLL Injection Tool.exe.config
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\bin\Debug\Te1amon's DLL Injection Tool.exe
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\bin\Debug\Te1amon's DLL Injection Tool.pdb
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.csproj.AssemblyReference.cache
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon_s_DLL_Injection_Tool.Form1.resources
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon_s_DLL_Injection_Tool.Properties.Resources.resources
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.csproj.GenerateResource.cache
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.csproj.CoreCompileInputs.cache
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.exe
+C:\Users\jrrei\Desktop\DLL Injector\Te1amon's DLL Injection Tool\Te1amon's DLL Injection Tool\obj\Debug\Te1amon's DLL Injection Tool.pdb
